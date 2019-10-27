@@ -1,9 +1,14 @@
-Operating System (PC) - Manjaro (based on Arch linux) or Linux Mint (based on Ubuntu/Debian)  
+### Operating System (PC)
+Manjaro (based on Arch linux) or Linux Mint (based on Ubuntu/Debian)  
 
-Desktop Environment (Linux users only) - Cinnamon or Gnome  
+### Desktop Environment (Linux users only)
+Cinnamon or Gnome  
 
-Operating System (Mobile) - Android (based on Linux)  
+### Operating System (Mobile)
+Android (based on Linux)  
 
-Web Browser - Firefox Quantum  
+### Web Browser
+Firefox Quantum  
 
-Password Manager - Bitwarden  
+### Password Manager
+Bitwarden  
