@@ -15,3 +15,9 @@ Bitwarden
 
 ### Backup and Restore Utility (Linux users only)
 Timeshift
+
+### Text Editor
+Visual Studio Code OSS
+
+### Virtualisation
+Oracle VM Virtualbox
