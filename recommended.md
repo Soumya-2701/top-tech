@@ -12,3 +12,6 @@ Firefox Quantum
 
 ### Password Manager
 Bitwarden  
+
+### Backup and Restore Utility (Linux users only)
+Timeshift
