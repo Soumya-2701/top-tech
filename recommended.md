@@ -24,3 +24,6 @@ Oracle VM Virtualbox
 
 ### Version Control System
 Github (uses Git)
+
+### Ad blocker
+uBlock Origin
