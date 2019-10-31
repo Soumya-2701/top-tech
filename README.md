@@ -8,3 +8,4 @@ Operating System (Mobile)
 Web Browser  
 Password Manager  
 Backup and Restore Utility
+Text Editor
