@@ -7,3 +7,4 @@ Desktop Environment (Linux only)
 Operating System (Mobile)  
 Web Browser  
 Password Manager  
+Backup and Restore Utility
