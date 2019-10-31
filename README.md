@@ -10,3 +10,4 @@ Password Manager
 Backup and Restore Utility  
 Text Editor  
 Virtualisation  
+Ad blocker  
