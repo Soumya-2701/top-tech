@@ -7,5 +7,6 @@ Desktop Environment (Linux only)
 Operating System (Mobile)  
 Web Browser  
 Password Manager  
-Backup and Restore Utility
-Text Editor
+Backup and Restore Utility  
+Text Editor  
+Virtualisation  
